@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaProcessual.API", "ConsultaProcessual.API\ConsultaProcessual.API.csproj", "{A22A9DEC-6526-4A3C-A503-303DB7D72783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaProcessual.Data", "ConsultaProcessual.Data\ConsultaProcessual.Data.csproj", "{37C8097D-7D60-4244-B2AA-90E728F0D57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22A9DEC-6526-4A3C-A503-303DB7D72783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22A9DEC-6526-4A3C-A503-303DB7D72783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22A9DEC-6526-4A3C-A503-303DB7D72783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22A9DEC-6526-4A3C-A503-303DB7D72783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C8097D-7D60-4244-B2AA-90E728F0D57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C8097D-7D60-4244-B2AA-90E728F0D57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C8097D-7D60-4244-B2AA-90E728F0D57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C8097D-7D60-4244-B2AA-90E728F0D57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B34509-88AF-4A84-8F7D-3248A7FD3A20}
+	EndGlobalSection
+EndGlobal
